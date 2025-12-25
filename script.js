@@ -22,7 +22,7 @@ var leafGroup7 = ['#Leaf29a_1_','#Leaf29b_1_', '#Leaf29c_1_'];
 
 var budGroup1 = ['#Bud3_1_', '#Bud6_1_'];
 var budGroup2 = ['#Bud18_1_', '#Bud21_1_'];
-var budGroup3 = ['#Bud7a_1_', '#Bud7b_1_', '#Bud7c_1_', '#Bud8_1_'];
+var  budGroup3 = ['#Bud7a_1_', '#Bud7b_1_', '#Bud7c_1_', '#Bud8_1_'];
 var budGroup4 = ['#Bud22a_1_', '#Bud22b_1_', '#Bud22c_1_', '#Bud23_1_'];
 var budGroup5 = ['#Bud10_1_', '#Bud26_1_'];
 
